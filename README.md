@@ -1,6 +1,6 @@
 This repository contains training, generation and utility scripts for Stable Diffusion.
 
-The training flow for Colab with GPU training is developed in new branch - develop. It contains training.ipynb and ImageGen.ipynb to run the training and captioning. Images can be found in finetune/datasets/imgs folder. The model will be saved in training/model every epoch.
+## The training flow for Colab with GPU training is developed in new branch - develop. It contains training.ipynb and ImageGen.ipynb to run the training and captioning. Images can be found in finetune/datasets/imgs folder. The model will be saved in training/model every epoch.
 
 [__Change History__](#change-history) is moved to the bottom of the page. 
 更新履歴は[ページ末尾](#change-history)に移しました。
