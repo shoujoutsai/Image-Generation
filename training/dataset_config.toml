@@ -1,0 +1,7 @@
+[[datasets]]
+
+    [[datasets.subsets]]
+    image_dir = '/content/drive/MyDrive/sd_scripts/sd-scripts/finetune/datasets/imgs'
+    caption_extension = '.txt'
+    num_repeats = 50
+    
